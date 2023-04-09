@@ -1,8 +1,8 @@
 {
 
- "version":"2.1",
+ "version":"2.2",
 
- "title":"SLlegendz Vimamodz Yo Mini (🚨 Update🚨)",
+ "title":"SLlegendz Vimamodz  (🚨 Update🚨)",
 
  "button":"Update",
 
@@ -10,9 +10,9 @@
 
 🚨Added Full Antiban
 
-🔴ඕක පුලුවන් ඉක්මනට ගහපන්  මොකද ඕක ඉකමනට දාන්න ඕනේ  පුලුවන්නම් චැට් බබල් එකක් ගහපන් xml එකක්",
+🔴vimamods",
 
- "download":"https://youtu.be/JRDl6osi5nU"
+ "download":"https://youtube.com/@vimamodz"
 
 }
 
