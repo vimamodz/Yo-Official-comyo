@@ -12,7 +12,7 @@
 
 🚨Added Snow Effect Buttons (On Off )
 
-🚨Added Paymend Method 8 Button
+🚨Added Paymend Method Button
 
 🚨Added Fix Original Update
 
@@ -20,7 +20,7 @@
 
 🔴vimamods",
 
- "download":"https://youtube.com/@vimamods"
+ "download":"https://youtu.be/EqX_dFRq0Y4"
 
 }
 
