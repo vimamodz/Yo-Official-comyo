@@ -1,6 +1,6 @@
 {
 
- "version":"2.2",
+ "version":"2.1",
 
  "title":"SLlegendz V.N.S Wa base  (🚨 New Update🚨)",
 
